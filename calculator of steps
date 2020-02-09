@@ -5,4 +5,4 @@ for steps in range(1, 51):
     step_hight = round(hight_stairs / steps, 1)    
     step_length = round(length_stairs / steps, 1)
     
-    print('Steps: ',steps, ' Step hight: ',step_hight, ' Step_length: ',step_length)
+    print('Steps: ',steps, ' Step hight: ',step_hight, ' Step length: ',step_length)
